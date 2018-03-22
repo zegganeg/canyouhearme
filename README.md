@@ -9,7 +9,7 @@ Select a quest below, and let it go. If this is fun, consider more quests and le
 * [Quest 3 - Iterate on your project](https://github.com/bernard357/canyouhearme/issues/3)
 * [Quest 4 - Contribute to an existing project](https://github.com/bernard357/canyouhearme/issues/4)
 * [Quest 5 - Seek for approval of your story](https://github.com/bernard357/canyouhearme/issues/5)
-* [Quest 6 - Collaborate at scale](https://github.com/bernard357/canyouhearme/issues/6]
+* [Quest 6 - Collaborate at scale](https://github.com/bernard357/canyouhearme/issues/6)
 
 
 
